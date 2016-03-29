@@ -66,7 +66,8 @@ It turns out that Tukey was prescient. "Data science" as currently understood is
 4. Exploratory data analysis
 5. Data modeling
 6. Communication
-7. bridging #4-6 is a seventh element: Data visualization
+
+A common element to #4-6 is a seventh piece: Data visualization
 
 Grolemund & Wickham's forthcoming book [_R for Data Science_](http://r4ds.had.co.nz/do-science-with-data.html) has the following diagram:
 
