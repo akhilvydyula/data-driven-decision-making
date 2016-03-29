@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @MonkmanMH
- Watch 20
-  Unstar 38
- Fork 13 bcgov/BC-Policy-Framework-For-GitHub
- Code  Issues 1  Pull requests 0  Wiki  Pulse  Graphs
-Branch: master Find file Copy pathBC-Policy-Framework-For-GitHub/LICENSE
-fd55ae7  on Mar 6, 2015
-@kelpisland kelpisland Update LICENSE
-1 contributor
-RawBlameHistory     98 lines (73 sloc)  12.5 KB
-CC BY 4.0
-
 **Creative Commons Attribution 4.0 International Public License**
 
 https://creativecommons.org/licenses/by/4.0/legalcode
